@@ -7,4 +7,4 @@
 
 ## Video
 
-[![Video](https://img.youtube.com/vi/IdH_hUEPexo/maxresdefault.jpg)](https://youtu.be/IdH_hUEPexo)
+[![Video](http://i3.ytimg.com/vi/IdH_hUEPexo/hqdefault.jpg)](https://youtu.be/IdH_hUEPexo)
